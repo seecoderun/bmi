@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  border: 1px solid gray;
+  border-radius: 24px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+input {
+	margin-bottom: 1rem;
+}
+
+footer {
+	margin-top: 2rem;
+	text-align: center;
+	width: 360px;
+}
+
+@media (prefers-color-scheme: light) {
+	#root {
+		border: 1px solid black;
+		border-radius: 24px;
+	}	
+}
