@@ -2,6 +2,9 @@
 
 This small React app calculates a Body Mass Index value based on height and weight.
 
+## Online Demo
+You can find a working demo of the project [here](https://scrapnet.space/projects/bmi).
+
 ## Installing
 To install the project, clone or download the source code and then run `npm install`.
 
